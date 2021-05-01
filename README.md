@@ -2,6 +2,7 @@
 
 [![pytest](https://github.com/abhishekcusat11/264002_Mini_Project_Python_Ltts/actions/workflows/pytest.yml/badge.svg)](https://github.com/abhishekcusat11/264002_Mini_Project_Python_Ltts/actions/workflows/pytest.yml)
 
+[![CI](https://github.com/abhishekcusat11/264002_Mini_Project_Python_Ltts/actions/workflows/main.yml/badge.svg)](https://github.com/abhishekcusat11/264002_Mini_Project_Python_Ltts/actions/workflows/main.yml)
 **Introduction**
 - StepIn Record Management System is a project to easily manage the records of candidates enrolled in StepIn program of L&T Technology Services(LTTS).
 - The project file contains a python script (main.py). Also, the design of this project is pretty simple so that the user won’t find any difficulties while working on it. The StepIn Record Management System in Python helps in easy management of candidates records.
