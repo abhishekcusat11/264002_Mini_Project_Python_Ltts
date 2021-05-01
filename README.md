@@ -28,6 +28,6 @@
 - Go to this file using cd command in command prompt.
 - Write "main.py" and check every operation.
 - For testing Type 
-###### pip install -U pytest
-###### pytest Record_Test.py
+#### pip install -U pytest
+#### pytest Record_Test.py
 
