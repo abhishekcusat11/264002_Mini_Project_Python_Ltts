@@ -31,3 +31,29 @@
 #### pip install -U pytest
 #### pytest Record_Test.py
 
+
+## OUTPUT Screenshot
+### 1 Main Function
+![SS](https://user-images.githubusercontent.com/48598232/116772650-26dbde00-aa6e-11eb-94b2-0f3dfb8be558.PNG)
+
+## 2 To Add New Record
+![ss2](https://user-images.githubusercontent.com/48598232/116772674-52f75f00-aa6e-11eb-991b-8f59798956a4.PNG)
+
+## 3 To Display All Records
+![ss3](https://user-images.githubusercontent.com/48598232/116772692-6c001000-aa6e-11eb-887b-4544dbb923c9.PNG)
+
+## 4 Delete The Record By ID
+![ss4](https://user-images.githubusercontent.com/48598232/116772741-83d79400-aa6e-11eb-8123-a3953f152f1d.PNG)
+
+## 5 Edit Candidate Record
+![ss5](https://user-images.githubusercontent.com/48598232/116772754-99e55480-aa6e-11eb-87f1-b5e73fe3a331.PNG)
+
+## 6 Search For the candidates
+![ss6](https://user-images.githubusercontent.com/48598232/116772764-aec1e800-aa6e-11eb-806a-1bae4adec178.PNG)
+
+## 7 Tesing Using pytest
+![ss7](https://user-images.githubusercontent.com/48598232/116772767-baadaa00-aa6e-11eb-9723-28bedf202135.PNG)
+
+
+
+
