@@ -1,7 +1,7 @@
 # StepIn Record Management System
 
 **Introduction**
-StepIn Record Management System is a project to easily manage the record of candidates enrolled in StepIn program of L&T Technology Services(LTTS).
+- StepIn Record Management System is a project to easily manage the record of candidates enrolled in StepIn program of L&T Technology Services(LTTS).
 
 **Benefits**
 
