@@ -55,7 +55,7 @@
 ## 6 Search For the candidates
 ![ss6](https://user-images.githubusercontent.com/48598232/116772764-aec1e800-aa6e-11eb-806a-1bae4adec178.PNG)
 
-## 7 Tesing Using pytest
+## 7 Testing Using pytest
 ![ss7](https://user-images.githubusercontent.com/48598232/116772767-baadaa00-aa6e-11eb-9723-28bedf202135.PNG)
 
 
